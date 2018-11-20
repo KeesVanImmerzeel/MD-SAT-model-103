@@ -1,0 +1,31 @@
+************* EParray[ 1 ]: TestFile **********
+1             Aantal tijdsonafhankelijke tabellen: (=xInDep)
+0             ***table 0: table-type 0 (no interpolation) 
+1 5           rows, columns UITVOERTIJDSTIPPEN (jr)
+1 2 3 4 5 
+7             Aantal tijdsafhankelijk (xy)-tabellen (=xDep)******************
+0             table 0: table-type 0 (no interpolation)
+1             PsT: PestType= Soort Pesticide (1-25)
+0 4           
+0             table 1: table-type 0 (no interpolation)
+5             PsF: PestFlx= Toegepaste hoeveelheid pesticide (kg/ha/jr)
+0 1
+1 20
+2 30
+3 40
+4 50
+0             table 2: table-type 0 (no interpolation)
+1             LgP: Landgebruik (1-4: 1=akkerbouw; 2=bos; 3=gras; 4=natuur)
+0 2
+0             table 3: table-type 0 (no interpolation)
+1             Bd: BodemType/soort (1010 - 22020)
+0 4160         
+0             table 4: table-type 0 (no interpolation)
+1             P: Neerslagoverschot (m/jr)
+0 0.30        
+0             table 5: table-type 0 (no interpolation)
+1             L: Diepte van de jaargemiddelde grondwaterstand (m-mv)
+0 100.0  38.3745
+0             table 6: table-type 0 (no interpolation)
+1             CalcType: (0=av, 1=min, 2=max)
+0 0
